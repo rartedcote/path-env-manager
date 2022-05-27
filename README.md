@@ -1,0 +1,1 @@
+Store custom directories under a key in a file and modify the Windows PATH variable with the directory selected in order to make managing other different versions of executables easier.
